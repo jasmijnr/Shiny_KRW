@@ -1,0 +1,13 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+.Rapp.history
+rsconnect/
+renv/library/
+__pycache__/
+.venv/
+*.pyc
+.env
+/literatuur
+/data
